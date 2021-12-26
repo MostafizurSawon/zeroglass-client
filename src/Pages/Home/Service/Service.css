@@ -1,0 +1,15 @@
+.name {
+  border-bottom: 1px solid lightgrey;
+  padding-bottom: 15px;
+}
+
+.card-image:hover {
+  padding: 2px;
+}
+
+.btn-serv {
+  color: rgb(255, 255, 255);
+  border: 0;
+  border-radius: 3px;
+  background-color: rgb(243, 188, 35);
+}

@@ -1,0 +1,17 @@
+.banner {
+  height: 620px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  color: white;
+  background: linear-gradient(rgba(18, 18, 18, 0.45), rgba(18, 18, 18, 0.75)),
+    url("https://image.freepik.com/free-vector/glasses_1159-4207.jpg") fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.banner_vacation {
+  font-size: 60px;
+}
+.banner_travel {
+  color: #e3ee51;
+}
